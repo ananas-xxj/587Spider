@@ -61,8 +61,11 @@
   * 接口协议
     * requestCipherText(int type,IBaseRequestCallback<CipherTextModel> callback);
   * 注意事项
-    * 
+    * 用6组表情，每组4个不同表情来代表数字0123，用这组表情的01234个数字作为4进制去显示10进制的uid。
 * 探探玩法
   * 主要类文件
+    * tantan整个目录
   * 接口协议
+    * 协议未定
   * 注意事项
+    * 整个相关代码都在tantan文件目录下，只实现了ui界面。
